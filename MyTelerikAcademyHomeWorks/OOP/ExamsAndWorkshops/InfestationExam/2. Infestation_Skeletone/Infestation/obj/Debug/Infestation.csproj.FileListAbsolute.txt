@@ -1,0 +1,10 @@
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation\Infestation\Infestation\bin\Debug\Infestation.exe
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation\Infestation\Infestation\bin\Debug\Infestation.pdb
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation\Infestation\Infestation\obj\Debug\Infestation.exe
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation\Infestation\Infestation\obj\Debug\Infestation.pdb
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation\Infestation\Infestation\obj\Debug\Infestation.csprojResolveAssemblyReference.cache
+D:\TelerikAcademyCourse\OOP\RecentExams\Evening05March2014\2. Infestation_Скелет на решението\Infestation\obj\Debug\Infestation.exe
+D:\TelerikAcademyCourse\OOP\RecentExams\Evening05March2014\2. Infestation_Скелет на решението\Infestation\obj\Debug\Infestation.pdb
+D:\TelerikAcademyCourse\OOP\RecentExams\Evening05March2014\2. Infestation_Скелет на решението\Infestation\bin\Debug\Infestation.exe
+D:\TelerikAcademyCourse\OOP\RecentExams\Evening05March2014\2. Infestation_Скелет на решението\Infestation\bin\Debug\Infestation.pdb
+D:\TelerikAcademyCourse\OOP\RecentExams\Evening05March2014\2. Infestation_Скелет на решението\Infestation\obj\Debug\Infestation.csprojResolveAssemblyReference.cache

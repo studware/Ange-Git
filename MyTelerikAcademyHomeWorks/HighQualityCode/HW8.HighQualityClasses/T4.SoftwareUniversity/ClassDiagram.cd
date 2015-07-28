@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="T4.SoftwareUniversity.Course">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAQAAAEEAAAAAQAAAAGAAAAAAIAAAACAAA=</HashCode>
+      <FileName>Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T4.SoftwareUniversity.LocalCourse">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="T4.SoftwareUniversity.Course" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="3.853" />
+        <Point X="5" Y="4.5" />
+        <Point X="7.25" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LocalCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T4.SoftwareUniversity.OffSiteCourse">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="T4.SoftwareUniversity.Course" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="3.853" />
+        <Point X="5" Y="4.5" />
+        <Point X="3.25" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OffSiteCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T4.SoftwareUniversity.SoftwareUniversityDemo">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>SoftwareUniversityDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="T3.Utilities.Box">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQARgAACEAAAAAAgAAgACAAIAAAAAA=</HashCode>
+      <FileName>Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T3.Utilities.FileUtils">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAA=</HashCode>
+      <FileName>FileUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T3.Utilities.GeometryUtils">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAMAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeometryUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T3.Utilities.UtilsDemo">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UtilsDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

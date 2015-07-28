@@ -1,0 +1,6 @@
+D:\GitHub\HighQualityCode\HW4.Code-Documentation-And-Comments\StringExtensions\bin\Debug\StringExtensions.dll
+D:\GitHub\HighQualityCode\HW4.Code-Documentation-And-Comments\StringExtensions\bin\Debug\StringExtensions.pdb
+D:\GitHub\HighQualityCode\HW4.Code-Documentation-And-Comments\StringExtensions\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+D:\GitHub\HighQualityCode\HW4.Code-Documentation-And-Comments\StringExtensions\obj\Debug\StringExtensions.dll
+D:\GitHub\HighQualityCode\HW4.Code-Documentation-And-Comments\StringExtensions\obj\Debug\StringExtensions.pdb
+D:\GitHub\HighQualityCode\HW4.Code-Documentation-And-Comments\StringExtensions\bin\Debug\StringExtensions.XML
