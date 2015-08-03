@@ -1,0 +1,5 @@
+
+***************************************************************************
+The analysis of the code coverage by the unit tests of the Deck.cs class has been performed
+using NUnit.VisualStudio.TestAdapter.
+NUnit.VisualStudio.TestAdapter showed 98.25% coverage of the unit tests for Deck.cs class.

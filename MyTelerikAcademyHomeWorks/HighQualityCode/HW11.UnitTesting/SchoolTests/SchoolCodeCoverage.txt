@@ -1,0 +1,5 @@
+
+***************************************************************************
+The analysis of the code coverage by the unit tests of the School project has been performed
+using DotCover extension.
+DotCover showed 100% coverage of the unit tests for the School project.
