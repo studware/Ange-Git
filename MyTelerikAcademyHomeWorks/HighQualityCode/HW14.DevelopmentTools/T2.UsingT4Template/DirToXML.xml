@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" ?>
+<project>
+	<file>App.config</file>
+	<file>ClassGettersSetters.cs</file>
+	<file>ClassGettersSetters.tt</file>
+	<file>DirToXML.tt</file>
+	<file>DirToXML.xml</file>
+	<file>T2.UsingT4Template.csproj</file>
+</project>
