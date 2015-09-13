@@ -48,7 +48,7 @@
 }</pre></div>
 
 <ul>
-<li><p><strong>Структура</strong></p></li>
+<li><p><strong>UML - диаграма</strong></p></li>
 </ul>
 
 <p><img src="/MyTelerikAcademyHomeWorks/HighQualityCode/HW18.Creational-Patterns/images/Singleton.jpg" alt="Singleton" title="Singleton - UML diagram" style="max-width:100%;"></p>
