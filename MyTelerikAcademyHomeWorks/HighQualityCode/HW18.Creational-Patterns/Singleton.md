@@ -26,21 +26,21 @@
 
 <li><p><strong>Имплементация</strong></p>
 
-<div class="highlight highlight-c#"><pre><span class="pl-k">public</span> <span class="pl-k">sealed</span> <span class="pl-k">class</span> <span class="pl-en">Singleton</span>
+<div class="highlight highlight-c#"><pre><span class="pl-k">public</span> <span class="pl-k">sealed</span> <span class="pl-k">class</span> <span class="pl-en">QueenMother</span>
 {
-    <span class="pl-k">private</span> <span class="pl-k">static</span> Singleton instance = <span class="pl-c1">null</span>;
+    <span class="pl-k">private</span> <span class="pl-k">static</span> QueenMother instance = <span class="pl-c1">null</span>;
 
-    <span class="pl-k">private</span> <span class="pl-en">Singleton</span>()
+    <span class="pl-k">private</span> <span class="pl-en">QueenMother</span>()
     {
     }
 
-    <span class="pl-k">public</span> <span class="pl-k">static</span> Singleton Instance
+    <span class="pl-k">public</span> <span class="pl-k">static</span> QueenMother Instance
     {
         <span class="pl-k">get</span>
         {
             <span class="pl-k">if</span> (instance==<span class="pl-c1">null</span>)
             {
-                instance = <span class="pl-k">new</span> Singleton();
+                instance = <span class="pl-k">new</span> QueenMother();
             }
             <span class="pl-k">return</span> instance;
         }
