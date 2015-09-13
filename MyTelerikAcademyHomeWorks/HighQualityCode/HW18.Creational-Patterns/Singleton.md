@@ -47,6 +47,6 @@
     }
 }</pre></div>
 
-<p><img src="/Ange-Git/blob/master/MyTelerikAcademyHomeWorks/HighQualityCode/HW18.Creational-Patterns/images/Singleton.jpg" alt="Singleton" title="Singleton - UML diagram" style="max-width:100%;"></p>
+<p><img src="/MyTelerikAcademyHomeWorks/HighQualityCode/HW18.Creational-Patterns/images/Singleton.jpg" alt="Singleton" title="Singleton - UML diagram" style="max-width:100%;"></p>
 
 </article>
