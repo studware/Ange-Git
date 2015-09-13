@@ -47,6 +47,6 @@
     }
 }</pre></div>
 
-<p><a href="/studware/Ange-Git/new/master/MyTelerikAcademyHomeWorks/HighQualityCode/HW18.Creational-Patterns/images/Singleton.jpg" target="_blank"><img src="/studware/Ange-Git/new/master/MyTelerikAcademyHomeWorks/HighQualityCode/HW18.Creational-Patterns/images/Singleton.jpg" alt="Singleton" title="Singleton - UML diagram" style="max-width:100%;"></a></p>
+<p><a href="/studware/Ange-Git/blob/master/MyTelerikAcademyHomeWorks/HighQualityCode/HW18.Creational-Patterns/images/Singleton.jpg" target="_blank"><img src="/studware/Ange-Git/blob/master/MyTelerikAcademyHomeWorks/HighQualityCode/HW18.Creational-Patterns/images/Singleton.jpg" alt="Singleton" title="Singleton - UML diagram" style="max-width:100%;"></a></p>
 
 </article>
