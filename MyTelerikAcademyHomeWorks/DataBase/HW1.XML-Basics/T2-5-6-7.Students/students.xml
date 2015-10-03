@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--2.Create XML document students.xml, which contains structured description of students.
+      For each student you should enter information for his name, sex, birth date, phone, email, course,
+      specialty, faculty number and a list of taken exams (exam name, tutor, score).
+    5.Add default namespace for students "urn:students".
+    6.Create XSD Schema for students.xml document. Add new elements in the schema: info for enrollment (date and exam score) and teacher's endorsements.
+-->
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students name="Telerik Academy Students" xmlns="urn:students">
+  <student>
+    <name>Albena Koleva</name>
+    <sex>female</sex>
+    <birthDate>1992-01-05</birthDate>
+    <phone>+359888345678</phone>
+    <email>alkol@mail.com</email>
+    <course>4</course>      <!--student in fourth year of study -->
+    <specialty>Finance</specialty>
+    <facultyNumber>12345</facultyNumber>
+    <enrollment>
+      <date>2011-09-15</date>
+      <examScore>35.75</examScore>
+    </enrollment>
+    <examsTaken>
+      <exam>
+        <name>Corporate Finance</name>
+        <tutor>Jenifer Garner</tutor>
+        <score>A</score>
+        <teacherEndorsements>
+          <labWork>Passed</labWork>
+          <teamProject>27</teamProject>
+        </teacherEndorsements>
+      </exam>
+      <exam>
+        <name>Futures and Options</name>
+        <tutor>Naomy Wats</tutor>
+        <score>B</score>
+        <teacherEndorsements>
+          <labWork>Passed</labWork>
+          <teamProject>30</teamProject>
+        </teacherEndorsements>
+      </exam>
+      <exam>
+        <name>Investment Analysis</name>
+        <tutor>Nina Dobrev</tutor>
+        <score>A</score>
+        <teacherEndorsements>
+          <labWork>Passed</labWork>
+          <teamProject>25</teamProject>
+        </teacherEndorsements>
+      </exam>
+    </examsTaken>
+  </student>
+  <student>
+    <name>Christian Nagel</name>
+    <sex>male</sex>
+    <birthDate>1996-08-25</birthDate>
+    <phone>+3592123456</phone>
+    <email>chrisnag@mail.com</email>
+    <course>1</course>
+    <specialty>Computer Science</specialty>
+    <facultyNumber>56789</facultyNumber>
+    <enrollment>
+      <date>2015-09-15</date>
+      <examScore>35.25</examScore>
+    </enrollment>
+    <examsTaken>
+      <exam>
+        <name>C#-Part I</name>
+        <tutor>Evlogy Christov</tutor>
+        <score>100</score>
+        <teacherEndorsements>
+          <labWork>Passed</labWork>
+          <teamProject>27</teamProject>
+        </teacherEndorsements>
+      </exam>
+      <exam>
+        <name>C#-Part II</name>
+        <tutor>Nikolay Kostov</tutor>
+        <score>95</score>
+        <teacherEndorsements>
+          <labWork>Passed</labWork>
+          <teamProject>30</teamProject>
+        </teacherEndorsements>
+      </exam>
+    </examsTaken>
+  </student>
+</students>
