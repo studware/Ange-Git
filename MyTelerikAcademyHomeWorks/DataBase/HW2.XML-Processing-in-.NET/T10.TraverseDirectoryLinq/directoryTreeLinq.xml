@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications">
+  <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW.Underscore">
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW.Underscore\QAbestHW_Rabota-s-Underscore.js">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW.Underscore\QAbestHW_Rabota-s-Underscore.js\03.underscore-hw">
+        <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW.Underscore\QAbestHW_Rabota-s-Underscore.js\03.underscore-hw\scripts">
+          <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW.Underscore\QAbestHW_Rabota-s-Underscore.js\03.underscore-hw\scripts\libs" />
+          <file fileName="libs" fileExt="" />
+        </folder>
+        <file fileName="scripts" fileExt="" />
+      </folder>
+      <file fileName="03" fileExt=".underscore-hw" />
+    </folder>
+    <file fileName="QAbestHW_Rabota-s-Underscore" fileExt=".js" />
+  </folder>
+  <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW2.UndersvoreJS">
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW2.UndersvoreJS\scripts">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW2.UndersvoreJS\scripts\classes" />
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW2.UndersvoreJS\scripts\libs" />
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW2.UndersvoreJS\scripts\tasks" />
+      <file fileName="classes" fileExt="" />
+      <file fileName="libs" fileExt="" />
+      <file fileName="tasks" fileExt="" />
+    </folder>
+    <file fileName="scripts" fileExt="" />
+  </folder>
+  <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW3.WebStorages">
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW3.WebStorages\WebStorages">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW3.WebStorages\WebStorages\WebStorages">
+        <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW3.WebStorages\WebStorages\WebStorages\Properties" />
+        <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW3.WebStorages\WebStorages\WebStorages\scripts" />
+        <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW3.WebStorages\WebStorages\WebStorages\styles" />
+        <file fileName="Properties" fileExt="" />
+        <file fileName="scripts" fileExt="" />
+        <file fileName="styles" fileExt="" />
+      </folder>
+      <file fileName="WebStorages" fileExt="" />
+    </folder>
+    <file fileName="WebStorages" fileExt="" />
+  </folder>
+  <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData">
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\server">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\server\node_modules">
+        <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\server\node_modules\bin" />
+        <file fileName="bin" fileExt="" />
+      </folder>
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\server\routes" />
+      <file fileName="node_modules" fileExt="" />
+      <file fileName="routes" fileExt="" />
+    </folder>
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\T1.HttpRequests">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\T1.HttpRequests\libs" />
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\T1.HttpRequests\scripts" />
+      <file fileName="libs" fileExt="" />
+      <file fileName="scripts" fileExt="" />
+    </folder>
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\T2.UserPublicTwitter">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\T2.UserPublicTwitter\css" />
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\T2.UserPublicTwitter\js" />
+      <file fileName="css" fileExt="" />
+      <file fileName="js" fileExt="" />
+    </folder>
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\T3.StudentsREST_API">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\T3.StudentsREST_API\css" />
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\T3.StudentsREST_API\scripts">
+        <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6.ConsumingRemoteData\T3.StudentsREST_API\scripts\libs" />
+        <file fileName="libs" fileExt="" />
+      </folder>
+      <file fileName="css" fileExt="" />
+      <file fileName="scripts" fileExt="" />
+    </folder>
+    <file fileName="server" fileExt="" />
+    <file fileName="T1" fileExt=".HttpRequests" />
+    <file fileName="T2" fileExt=".UserPublicTwitter" />
+    <file fileName="T3" fileExt=".StudentsREST_API" />
+  </folder>
+  <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript">
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\01. Http-Requester">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\01. Http-Requester\scripts" />
+      <file fileName="scripts" fileExt="" />
+    </folder>
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\02. Tweets-Fetcher">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\02. Tweets-Fetcher\scripts">
+        <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\02. Tweets-Fetcher\scripts\vendor" />
+        <file fileName="vendor" fileExt="" />
+      </folder>
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\02. Tweets-Fetcher\styles" />
+      <file fileName="scripts" fileExt="" />
+      <file fileName="styles" fileExt="" />
+    </folder>
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\03. Application for managing students">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\03. Application for managing students\scripts" />
+      <file fileName="scripts" fileExt="" />
+    </folder>
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\includes">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\includes\images" />
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\includes\scripts" />
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW6Plamen. Consuming Remote Data with JavaScript\includes\styles" />
+      <file fileName="images" fileExt="" />
+      <file fileName="scripts" fileExt="" />
+      <file fileName="styles" fileExt="" />
+    </folder>
+    <file fileName="01" fileExt=". Http-Requester" />
+    <file fileName="02" fileExt=". Tweets-Fetcher" />
+    <file fileName="03" fileExt=". Application for managing students" />
+    <file fileName="includes" fileExt="" />
+  </folder>
+  <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW9.CroudChatSPA">
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW9.CroudChatSPA\Scripts">
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW9.CroudChatSPA\Scripts\app" />
+      <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW9.CroudChatSPA\Scripts\libs" />
+      <file fileName="app" fileExt="" />
+      <file fileName="libs" fileExt="" />
+    </folder>
+    <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW9.CroudChatSPA\styles" />
+    <file fileName="Scripts" fileExt="" />
+    <file fileName="styles" fileExt="" />
+  </folder>
+  <folder folderPath="D:\TelerikAcademyCourse\JavaScript\JavaScriptApplications\HW_Web-storages" />
+  <file fileName="HW" fileExt=".Underscore" />
+  <file fileName="HW2" fileExt=".UndersvoreJS" />
+  <file fileName="HW3" fileExt=".WebStorages" />
+  <file fileName="HW6" fileExt=".ConsumingRemoteData" />
+  <file fileName="HW6Plamen" fileExt=". Consuming Remote Data with JavaScript" />
+  <file fileName="HW9" fileExt=".CroudChatSPA" />
+  <file fileName="HW_Web-storages" fileExt="" />
+</folder>
