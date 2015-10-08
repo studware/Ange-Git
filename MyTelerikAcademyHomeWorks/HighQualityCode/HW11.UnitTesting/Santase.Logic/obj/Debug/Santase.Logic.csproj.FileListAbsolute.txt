@@ -1,0 +1,5 @@
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\Santase.Logic\bin\Debug\Santase.Logic.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\Santase.Logic\bin\Debug\Santase.Logic.pdb
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\Santase.Logic\obj\Debug\Santase.Logic.csprojResolveAssemblyReference.cache
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\Santase.Logic\obj\Debug\Santase.Logic.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\Santase.Logic\obj\Debug\Santase.Logic.pdb

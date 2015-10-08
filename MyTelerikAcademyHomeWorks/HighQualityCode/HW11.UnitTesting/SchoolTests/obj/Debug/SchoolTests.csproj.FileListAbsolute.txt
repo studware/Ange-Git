@@ -1,0 +1,14 @@
+D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\SchoolTests\bin\Debug\SchoolTests.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\SchoolTests\bin\Debug\SchoolTests.pdb
+D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\SchoolTests\bin\Debug\School.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\SchoolTests\bin\Debug\School.pdb
+D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\SchoolTests\obj\Debug\SchoolTests.csprojResolveAssemblyReference.cache
+D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\SchoolTests\obj\Debug\SchoolTests.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\SchoolTests\obj\Debug\SchoolTests.pdb
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\SchoolTests\bin\Debug\SchoolTests.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\SchoolTests\bin\Debug\SchoolTests.pdb
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\SchoolTests\bin\Debug\School.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\SchoolTests\bin\Debug\School.pdb
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\SchoolTests\obj\Debug\SchoolTests.csprojResolveAssemblyReference.cache
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\SchoolTests\obj\Debug\SchoolTests.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\SchoolTests\obj\Debug\SchoolTests.pdb

@@ -1,0 +1,9 @@
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\DeckNUnitTests\bin\Debug\DeckNUnitTests.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\DeckNUnitTests\bin\Debug\DeckNUnitTests.pdb
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\DeckNUnitTests\bin\Debug\nunit.framework.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\DeckNUnitTests\bin\Debug\Santase.Logic.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\DeckNUnitTests\bin\Debug\Santase.Logic.pdb
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\DeckNUnitTests\bin\Debug\nunit.framework.xml
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\DeckNUnitTests\obj\Debug\DeckNUnitTests.csprojResolveAssemblyReference.cache
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\DeckNUnitTests\obj\Debug\DeckNUnitTests.dll
+D:\TelerikAcademyCourse\HQC2015\HW11.UnitTesting\DeckNUnitTests\obj\Debug\DeckNUnitTests.pdb
