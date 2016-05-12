@@ -1,0 +1,50 @@
+body {
+    background-color: darkgray;
+    font-size: 14px;
+}
+
+header, section + footer {
+    text-align: center;
+}
+
+section h1 {
+    font-size: 1.5em;
+    text-align: left;
+}
+
+a:active {
+    background-color: white;
+}
+
+a{
+    font-size: 1.4em;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p, footer{
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+article footer p{
+    font-weight: normal;
+}
+
+footer p a{
+    text-decoration: none;
+    font-size: inherit;
+    color: black;
+}
+
+h1 {
+    color: #FAFAD2;
+}

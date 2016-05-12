@@ -1,0 +1,39 @@
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+
+table {
+    border-style: solid;
+    border: 1px solid tan;
+    text-align: left;
+    width: 48%;
+}
+
+thead tr {
+    background-color: #55B806;
+    color: beige;
+}
+
+tr, td, th {
+    padding: 1%;
+    border-left: 1px solid lightgrey;
+}
+
+#de:before {
+    content: url("flags/Germany.png");
+}
+
+#en:before {
+    content: url("flags/England.png");
+}
+
+#mx:before {
+    content: url("flags/Mexico.png");
+}
+
+tr:nth-child(even) {
+    background-color: grey;
+}
