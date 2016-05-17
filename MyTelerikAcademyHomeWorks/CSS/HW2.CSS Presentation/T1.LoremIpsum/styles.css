@@ -1,0 +1,15 @@
+body {
+	font-family: Consolas;
+	color: #0094FF;
+}
+#first-letter {
+	font-size: 45px;
+	font-family: Edwardian Script ITC;
+}
+#diff {
+	font-size: 18px;
+	font-weight: 600;
+}
+#ordinary {
+	font-size: 16px;
+}
