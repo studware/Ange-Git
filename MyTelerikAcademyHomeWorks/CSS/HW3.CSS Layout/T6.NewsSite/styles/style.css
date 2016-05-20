@@ -1,0 +1,49 @@
+body{
+  font: 12px ariel, sans-serif;
+  color: #A1AEB5;
+}
+.container{
+  background-color: #1E3741;
+  border-radius: 5px;
+  border: 1px solid #00968C;
+  width: 38%;
+}
+nav ul{
+  margin: 10px 2px;
+  padding: 0;
+}
+nav>ul>li{
+  display: inline-block;
+  padding: 8px;
+  margin: 0;
+  background-color: #4B5F67;
+}
+.selected, h1{
+  color: white;
+  text-shadow: 1px 1px 1px #4B5F67;
+}
+.selected{
+  background-color: #1E3741;
+}
+nav>ul>li:hover{
+  text-decoration: underline;
+}
+section{
+  display: flex;
+}
+h1{
+  font-size: 1em;
+  background-color: #00968C;
+  padding: 8px 5px;
+}
+.text p{
+  padding: 0 5px 10px 5px;
+  border-bottom: 1px solid #4B5F67;
+}
+.text .lastp{
+  border-bottom: none;
+  padding-bottom: 0; 
+}
+img{
+  margin: 12px 30px 0 0 ;
+}
