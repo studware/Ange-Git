@@ -1,0 +1,160 @@
+html,
+body,
+div,
+h1,h2,
+ul,
+li,
+a,
+img,
+span {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  font-family: Helvetica;
+}
+
+body #wrapper {
+    width: 243px;
+    height:500px;
+}
+
+#wrapper section{
+    margin:5px;
+}
+
+#avatar img{
+    padding-top:5px;
+    padding-left:5px;    
+    border-radius:5px;
+    width:230px;
+    height:230px;
+}
+
+#main-info h1{
+    padding-top:5px;
+    font-size:1.65em;    
+}
+
+#main-info h2{
+    color:#666666;
+    font-weight:normal;
+    font-size:1.25em;
+    margin-bottom:9px;    
+}
+
+#label{
+    color:#F5FFF3;
+    background-color:#6CC644;
+    width:30px;
+    height:17px;
+    font-size:0.65em;
+    text-align:center;
+    border-radius:1px;
+}
+
+#main-info{
+    position:relative;
+    padding-bottom:5px;
+    height:92px;
+}
+
+#main-info a{
+    display:block;
+    position:absolute;
+    left:35px;
+    bottom:12px;
+    color:#4AA6DB;
+    text-decoration:none;
+    font-size:0.8em; 
+}
+
+#details{
+    width:232px;
+    height:85px;
+    border-top:2px solid #EEEEEE;
+    position:relative;
+                    border-bottom:2px solid #EEEEEE;
+}
+
+#details span{
+    color:#999999;
+    float:left;
+    display:inline-block;
+}
+
+#location span{
+        position:absolute;
+        top:10px;
+}
+
+#location p{
+    position:absolute;
+    left:23px;
+    top:-7px;
+    font-size:0.9em;
+    display:inline-block;
+}
+
+#mail span{
+    position:absolute;
+    top:35px;
+}
+
+#mail p{
+    position:absolute;
+    top:20px;
+    left:25px;
+    font-size:0.9em;
+}
+
+#mail p a{
+    color:#4AA6DB;
+    text-decoration:none;
+}
+
+#joined span{
+    position:absolute;
+    top:62px;
+}
+
+#joined p{
+    position:absolute;
+    top:47px;
+    left:25px;
+    font-size:0.9em;
+}
+
+#git-info{
+    position:relative;
+    top:5px;
+    left:10px;
+    width:232px;
+    padding-right:1px;
+    text-align:center;
+}
+
+#git-info div{
+    float:left;
+    display:inline-block;
+    padding-top:5px;
+    padding-right:7px;
+    padding-bottom:3px;
+    width:30%;
+    font-size:0.7em;
+    color:#999999;
+
+
+}
+
+#git-info span{
+    color:#4078C0;
+    font-size:2.3em;
+    font-weight:bold;
+    display:block;
+}
+
+.user-info{
+    padding-left:5px;
+}
