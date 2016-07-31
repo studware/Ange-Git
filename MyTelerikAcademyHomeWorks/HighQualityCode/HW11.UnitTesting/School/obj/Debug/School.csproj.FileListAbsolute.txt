@@ -1,5 +1,0 @@
-D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\School\bin\Debug\School.dll
-D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\School\bin\Debug\School.pdb
-D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\School\obj\Debug\School.csprojResolveAssemblyReference.cache
-D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\School\obj\Debug\School.dll
-D:\TelerikAcademyCourse\HQC2015\HW11.Unit-Testing\HW11.UnitTesting\School\obj\Debug\School.pdb
