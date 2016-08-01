@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CardComparer.cs" />
     <Compile Include="CardWinner.cs" />
     <Compile Include="Announce.cs" />
     <Compile Include="Cards\Card.cs" />
