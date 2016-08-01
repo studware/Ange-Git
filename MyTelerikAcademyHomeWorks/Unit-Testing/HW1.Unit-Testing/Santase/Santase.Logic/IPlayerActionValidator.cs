@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Santase.Logic.Cards;
 using Santase.Logic.Players;
-using Santase.Logic.Cards;
+using System.Collections.Generic;
+
 namespace Santase.Logic
 {
     public interface IPlayerActionValidator

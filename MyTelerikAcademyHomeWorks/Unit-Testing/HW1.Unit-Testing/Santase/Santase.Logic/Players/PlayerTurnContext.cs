@@ -1,23 +1,19 @@
 ﻿using Santase.Logic.Cards;
 using Santase.Logic.RoundStates;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace Santase.Logic.Players
 {
     public class PlayerTurnContext
     {
         public PlayerTurnContext(
-            BaseRoundState state,
-            Card trumpCard,
-            int cardsLeftInDeck)
-        {
-            this.State = state;
-            this.TrumpCard = trumpCard;
-            this.CardsLeftInDeck = cardsLeftInDeck;
-        }
+                                    BaseRoundState state,
+                                    Card trumpCard,
+                                    int cardsLeftInDeck)
+            {
+                this.State = state;
+                this.TrumpCard = trumpCard;
+                this.CardsLeftInDeck = cardsLeftInDeck;
+            }
 
         public BaseRoundState State { get; internal set; }
 

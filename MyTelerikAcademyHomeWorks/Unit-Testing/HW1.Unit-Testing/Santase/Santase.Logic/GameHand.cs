@@ -17,7 +17,7 @@ namespace Santase.Logic
         private IList<Card> secondPlayerCards;
         private BaseRoundState state;
         private IDeck deck;
-        private IPlayerActionValidator actionValidater;
+        private IPlayerActionValidator actionValidator;
 
         private PlayerPosition whoClosedTheGame;
 
@@ -45,7 +45,7 @@ namespace Santase.Logic
             this.secondPlayerCards = secondPlayerCards;
             this.state = state;
             this.deck = deck;
-            this.actionValidater = new PlayerActionValidator();
+            this.actionValidator = new PlayerActionValidator();
             this.whoClosedTheGame = PlayerPosition.NoOne;
         }
 
@@ -78,7 +78,7 @@ namespace Santase.Logic
                 firstPlayerAction =
                     this.FirstPlayerTurn(firstToPlay, context);
 
-                if (!this.actionValidater.IsValid(firstPlayerAction, context, firstToPlayCards))
+                if (!this.actionValidator.IsValid(firstPlayerAction, context, firstToPlayCards))
                 {
                     // TODO: Do something more graceful?
                     throw new InternalGameException("Invalid turn!");
@@ -91,9 +91,9 @@ namespace Santase.Logic
 
             PlayerAction secondPlayerAction = secondToPlay.GetTurn(
                 context,
-                this.actionValidater);
+                this.actionValidator);
 
-            if (!this.actionValidater.IsValid(secondPlayerAction, context, secondToPlayCards))
+            if (!this.actionValidator.IsValid(secondPlayerAction, context, secondToPlayCards))
             {
                 // TODO: Do something more graceful?
                 throw new InternalGameException("Invalid turn!");
@@ -140,7 +140,7 @@ namespace Santase.Logic
         private PlayerAction FirstPlayerTurn(IPlayer firstToPlay, PlayerTurnContext context)
         {
             var firstToPlayTurn = firstToPlay.GetTurn(
-                context, this.actionValidater);
+                context, this.actionValidator);
 
             if (firstToPlayTurn.Type == PlayerActionType.CloseGame)
             {
