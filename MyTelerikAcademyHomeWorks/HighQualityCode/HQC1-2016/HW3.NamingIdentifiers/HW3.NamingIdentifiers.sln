@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer", "Printer\Printer.csproj", "{1B0B1095-F17E-4636-8A20-264A4BC6A201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Population", "Population\Population.csproj", "{FB1BFD88-BC9E-48D2-8F7F-F3F1C90E8C1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeper", "MineSweeper\MineSweeper.csproj", "{339D6BA7-2A3F-4B91-A270-14415819D573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B0B1095-F17E-4636-8A20-264A4BC6A201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0B1095-F17E-4636-8A20-264A4BC6A201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0B1095-F17E-4636-8A20-264A4BC6A201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0B1095-F17E-4636-8A20-264A4BC6A201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1BFD88-BC9E-48D2-8F7F-F3F1C90E8C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1BFD88-BC9E-48D2-8F7F-F3F1C90E8C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1BFD88-BC9E-48D2-8F7F-F3F1C90E8C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1BFD88-BC9E-48D2-8F7F-F3F1C90E8C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{339D6BA7-2A3F-4B91-A270-14415819D573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339D6BA7-2A3F-4B91-A270-14415819D573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339D6BA7-2A3F-4B91-A270-14415819D573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339D6BA7-2A3F-4B91-A270-14415819D573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
