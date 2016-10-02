@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" ?>
+<project>
+	<file>DirToXML.tt</file>
+	<file>T4Template.csproj</file>
+</project>
