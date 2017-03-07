@@ -3,7 +3,7 @@ using System.Linq;
 
 // Conclusions - 
 // The fastest operation is square root, the slowest sinus
-// Float is faster then double, decimal is slower in times
+// Double is faster than float, decimal is slower in times
 // Natural logarithm of decimal cause StackOverflowException()
 class MathOperations
 {
@@ -32,7 +32,8 @@ class MathOperations
         Console.Write("Square root of decimal: ");
         ArithmeticOperations.DisplayExecutionTime(() =>
         {
-            decimal result = 1000000m;
+            decimal result = 1000000.3345679987m;
+            decimal r = (decimal)Math.Sqrt((double)result);
             for (int i = 0; i < 100000; i++)
             {
                 result = (decimal)Math.Sqrt((double)result);
@@ -42,7 +43,7 @@ class MathOperations
 
     static void CalculateNaturalLogarithm()
     {
-        Console.Write("Natural logarithm of float:   ");
+        Console.Write("\nNatural logarithm of float:   ");
         ArithmeticOperations.DisplayExecutionTime(() =>
         {
             float result = 1000000f;
@@ -76,7 +77,7 @@ class MathOperations
 
     static void CalculateSinus()
     {
-        Console.Write("Sinus of float:   ");
+        Console.Write("\nSinus of float:   ");
         ArithmeticOperations.DisplayExecutionTime(() =>
         {
             float result = 1000000f;

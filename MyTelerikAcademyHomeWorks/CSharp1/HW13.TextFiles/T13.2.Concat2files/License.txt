@@ -1,0 +1,25 @@
+
+Hello, I am the text of the License.txt file!
+
+YOU SHOULD CAREFULLY READ THE FOLLOWING END USER LICENSE AGREEMENT 
+BEFORE INSTALLING THIS SOFTWARE PROGRAM. BY INSTALLING, COPYING, OR 
+OTHERWISE USING THE SOFTWARE PROGRAM, YOU AGREE TO BE BOUND BY THE 
+TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS 
+AGREEMENT, PROMPTLY RETURN THE UNUSED SOFTWARE PROGRAM TO THE PLACE 
+OF PURCHASE OR CONTACT BLIZZARD ENTERTAINMENT CUSTOMER SERVICE AT 
+(949) 955-1382 FOR A FULL REFUND OF THE PURCHASE PRICE WITHIN THIRTY 
+(30) DAYS OF THE ORIGINAL PURCHASE.
+
+This software program (the "Program"), any printed materials, any 
+on-line or electronic documentation, and any and all copies and 
+derivative works of such software program and materials are the 
+copyrighted work of Blizzard Entertainment, a division of Havas 
+Interactive, Inc. and/or it wholly owned subsidiaries, or its 
+suppliers. All use of the Program is governed by the terms of the 
+End User License Agreement which is provided below ("License 
+Agreement"). The Program is solely for use by end users according to 
+the terms of the License Agreement. Any use, reproduction or 
+redistribution of the Program not in accordance with the terms of 
+the License Agreement is expressly prohibited.
+END USER LICENSE AGREEMENT
+

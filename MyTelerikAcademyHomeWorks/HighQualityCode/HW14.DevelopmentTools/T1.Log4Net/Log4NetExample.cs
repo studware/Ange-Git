@@ -13,8 +13,8 @@ namespace T1.Log4Net
       static void Main()
       {
         BasicConfigurator.Configure();
-        log.Debug("Debug msg:\nYep! I sicceeded using Log4Net!\nFollow Nickey's video, it's just fine!\n");
-        log.Error("Error msg:\nThis is not an error!\n");
+        log.Debug("Debug msg:\nYep! I sicceeded using Log4Net!\nFollow Ivan's video, it's just fine!\n");
+        log.Error("Error msg:\nThis is not an error, just an example!\n");
       }
     }
 }
