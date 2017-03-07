@@ -1,0 +1,7 @@
+﻿find("", "Sofia")
+find("Petrova", "Karnobat")
+find("Daniela")
+find("Kireto", "Pleven") 
+find("Gancho")
+find("","Plovdiv")
+find("Kireto")

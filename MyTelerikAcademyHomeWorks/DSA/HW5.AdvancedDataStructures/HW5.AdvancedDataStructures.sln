@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1.PriorityQueue", "T1.PriorityQueue\T1.PriorityQueue.csproj", "{D7CD78BC-DC1B-4B39-B41E-212C2EE856E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2.FilterByPrice", "T2.FilterByPrice\T2.FilterByPrice.csproj", "{04C31CFE-5C44-413F-A720-D43AD77A257A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T3.FindWordsInLargeText", "T3.FindWordsInLargeText\T3.FindWordsInLargeText.csproj", "{B844876F-73DE-4815-ABF0-65F44C46B5DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7CD78BC-DC1B-4B39-B41E-212C2EE856E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CD78BC-DC1B-4B39-B41E-212C2EE856E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CD78BC-DC1B-4B39-B41E-212C2EE856E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CD78BC-DC1B-4B39-B41E-212C2EE856E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C31CFE-5C44-413F-A720-D43AD77A257A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C31CFE-5C44-413F-A720-D43AD77A257A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C31CFE-5C44-413F-A720-D43AD77A257A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C31CFE-5C44-413F-A720-D43AD77A257A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B844876F-73DE-4815-ABF0-65F44C46B5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B844876F-73DE-4815-ABF0-65F44C46B5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B844876F-73DE-4815-ABF0-65F44C46B5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B844876F-73DE-4815-ABF0-65F44C46B5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
